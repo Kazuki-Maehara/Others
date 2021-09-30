@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 const myObj = {
   a: 1,
   b: { c: 2 },
